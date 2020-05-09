@@ -1,7 +1,3 @@
-# Maximiliano-Neblina-prework
-
-<!DOCTYPE html>
-<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -11,10 +7,15 @@
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="style.css">
 </head>
-    
-<body>
-<div name = "assignment1" class = topleft >
-<link rel="stylesheet" href="index.css.css">
+
+
+
+
+<div name = "assignment1">
+    <body>
+    <link rel="stylesheet" href="index.css.css">
+
+<head class = topleft >
         <p id = "top" align =  "left"> FDC </p>
 </head>
 
