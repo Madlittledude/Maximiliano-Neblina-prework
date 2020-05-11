@@ -15,7 +15,7 @@
 
 <div name = "assignment1">
     <body>
-    <link rel="stylesheet" href="index.css.css">
+    <link rel="stylesheet" href="index.css">
 
 
         <p class = topleft id = "top" align =  "left"> FDC </p>
